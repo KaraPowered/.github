@@ -6,4 +6,4 @@ Kara Powered is a project that attempts to create an alternative to [Bukkit](htt
 
 This project was written entirely in Java. The minimum/exclusive Java version tested is Java 18.0.2.
 
-I hope this project will be useful to someone, Kara 🤗
+I hope this project will be useful to someone, [Kara](https://github.com/Kara6432) 🤗
